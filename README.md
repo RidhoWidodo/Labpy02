@@ -89,3 +89,26 @@ Program menampilkan total harga yang harus dibayar dengan format "Total harga ya
 berikut ini adalah flowchart nya:
 
 ![WhatsApp Image 2024-10-31 at 09 14 25 (1)](https://github.com/user-attachments/assets/c2cd3f9a-12c1-4f94-97e6-83892aa2b163)
+
+![Screenshot 2024-10-31 104150](https://github.com/user-attachments/assets/47eefc9e-8fe0-4635-a446-da332ad25e83)
+Kode program ini dirancang untuk melakukan operasi aritmatika sederhana berdasarkan input pengguna. Berikut penjelasan kode secara detail:
+
+input:
+
+Kode program meminta pengguna untuk memasukkan operator aritmatika (+, -, *, /) dan dua angka.
+
+Validasi Operator:
+
+Kode menggunakan struktur if-elif-else untuk memvalidasi operator yang dimasukkan.
+
+Operasi Aritmatika:
+
+Berdasarkan operator yang valid, kode melakukan operasi aritmatika yang sesuai dan menyimpan hasilnya dalam variabel hasil.
+
+Validasi Pembagian dengan Nol:
+
+Kode mengecek apakah angka kedua adalah nol untuk menghindari pembagian dengan nol. Jika angka kedua nol, program akan menampilkan pesan error dan menghentikan eksekusi.
+
+Output:
+
+Jika operator valid dan operasi berhasil dilakukan, kode mencetak hasil perhitungan ke layar. Jika operator tidak valid atau terjadi pembagian dengan nol, kode mencetak pesan error. Secara keseluruhan, kode ini mengilustrasikan penggunaan struktur kontrol if-elif-else untuk membuat program sederhana yang dapat melakukan operasi aritmatika dasar.
