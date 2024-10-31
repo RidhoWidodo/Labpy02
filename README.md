@@ -86,5 +86,6 @@ Program menampilkan total harga yang harus dibayar dengan format "Total harga ya
 
 # Latihan 3 Kasus 2 Program kalkulator sederhana
 
-berikut adalah flowchart nya:
+berikut ini adalah flowchart nya:
 
+![WhatsApp Image 2024-10-31 at 09 14 25 (1)](https://github.com/user-attachments/assets/c2cd3f9a-12c1-4f94-97e6-83892aa2b163)
