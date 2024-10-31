@@ -58,3 +58,32 @@ Kode ini mengecek apakah salah satu dari tiga bilangan (a, b, atau c) dapat meru
  # Latihan 3 Kasus 1 Pemesanan Tiket Bioskop
  ![WhatsApp Image 2024-10-31 at 09 14 25](https://github.com/user-attachments/assets/b6dac8c7-d996-4af2-b792-81d3a322df79)
 
+![Screenshot 2024-10-31 230359](https://github.com/user-attachments/assets/5f6f1cfb-1082-4aef-b067-93b697264f46)
+
+program ini dijalankan untuk menghitung total harga tiket bioskop. Program ini meminta input dari user untuk tipe tiket (reguler atau VIP) dan status member (memiliki kartu member atau tidak).
+
+Berikut Adalah Langkah-langkah Program.
+
+Mendefinisikan harga tiket:
+
+harga_tiket_reguler: Harga tiket reguler didefinisikan sebesar 50000 harga_tiket_vip: Harga tiket VIP didefinisikan sebesar 100000 diskon_member: Besar diskon untuk member didefinisikan sebesar 0.20 (20%)
+
+Meminta input dari user:
+
+Program meminta user untuk memasukkan tipe tiket (reguler/vip) dan menyimpannya ke dalam variabel tipe_tiket. Program meminta user untuk memasukkan status member (ya/tidak) dan menyimpannya ke dalam variabel status_member. Kedua input dari user diubah menjadi huruf kecil menggunakan fungsi lower().
+
+Menghihtung harga tiket bedasarkan tipe:
+
+Program memeriksa nilai tipe_tiket: Jika tipe_tiket adalah "reguler", maka harga_tiket diset menjadi harga_tiket_reguler. Jika tipe_tiket adalah "vip", maka harga_tiket diset menjadi harga_tiket_vip. Jika tipe_tiket bukan "reguler" atau "vip", maka program menampilkan pesan "Tipe tiket tidak valid" dan keluar dari program.
+
+Mengecek status member untuk diskon :
+
+Program memeriksa nilai status_member: Jika status_member adalah "ya", maka total_harga dihitung dengan rumus harga_tiket * (1 - diskon_member), yang memberikan diskon kepada member. Jika status_member bukan "ya", maka total_harga diset sama dengan harga_tiket tanpa diskon.
+
+Menampilkan total harga yang harus dibayar:
+
+Program menampilkan total harga yang harus dibayar dengan format "Total harga yang harus dibayar: Rp(total_harga)" menggunakan fungsi print().
+
+# Latihan 3 Kasus 2 Program kalkulator sederhana
+
+berikut adalah flowchart nya:
