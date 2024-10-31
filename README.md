@@ -19,7 +19,7 @@ Pengecekan Gaji:
 
 Jika gaji lebih dari 3.000.000, maka program akan mencetak "Gaji sudah di atas UMR". Jika tidak, program akan langsung mencetak "Gaji belum UMR" pada bagian else.
 
-# Latihan 3 : Memggunkan kondisi QR Program membandingkan 3 input bilangan, apabila penjumlahan 2 bilangan hasilnya sama dengan bilangan lainnya, maka cetak pernyataan "BENAR"
+# Latihan 3 : Memggunkan kondisi OR Program membandingkan 3 input bilangan, apabila penjumlahan 2 bilangan hasilnya sama dengan bilangan lainnya, maka cetak pernyataan "BENAR"
 ![Screenshot 2024-10-31 103208](https://github.com/user-attachments/assets/e476315c-676f-43bf-a513-0917625f1e21)
 
 Input Data:
