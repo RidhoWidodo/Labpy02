@@ -87,3 +87,4 @@ Program menampilkan total harga yang harus dibayar dengan format "Total harga ya
 # Latihan 3 Kasus 2 Program kalkulator sederhana
 
 berikut adalah flowchart nya:
+
