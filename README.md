@@ -56,4 +56,5 @@ Pengecekan Kondisi:
 Kode ini mengecek apakah salah satu dari tiga bilangan (a, b, atau c) dapat merupakan hasil penjumlahan dari dua bilangan lainnya. Pada contoh output di sebelah kanan gambar: Jika a = 10, b = 30, dan c = 40, maka ada kondisi yang terpenuhi, sehingga hasilnya adalah "BENAR".
 
  # Latihan 3 Kasus 1 Pemesanan Tiket Bioskop
- 
+ ![WhatsApp Image 2024-10-31 at 09 14 25](https://github.com/user-attachments/assets/b6dac8c7-d996-4af2-b792-81d3a322df79)
+
